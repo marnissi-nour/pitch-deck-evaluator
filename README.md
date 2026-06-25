@@ -8,7 +8,7 @@ An AI-powered pitch deck evaluator that analyzes startup decks with the critical
 
 ## 📽️ Demo
 
-[https://github.com/user-attachments/assets/YOUR_VIDEO_ID.webm](https://github.com/marnissi-nour/pitch-deck-evaluator/blob/main/demo.mp4)
+[https://github.com/marnissi-nour/pitch-deck-evaluator/blob/main/demo.mp4]
 
 ---
 
