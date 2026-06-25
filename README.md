@@ -10,8 +10,6 @@ An AI-powered pitch deck evaluator that analyzes startup decks with the critical
 
 https://github.com/user-attachments/assets/YOUR_VIDEO_ID.webm
 
-> _Replace the link above with your actual GitHub-hosted video URL after uploading `demo.webm`_
-
 ---
 
 ## 📁 Repository Structure
