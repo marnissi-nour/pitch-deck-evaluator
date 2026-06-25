@@ -101,6 +101,3 @@ The server acts as a lightweight proxy to keep your API key out of the browser. 
 
 ---
 
-## 📄 License
-
-MIT
