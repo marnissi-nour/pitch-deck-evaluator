@@ -1,0 +1,12 @@
+{
+  "name": "pitch-deck-evaluator",
+  "version": "1.0.0",
+  "description": "AI-powered pitch deck evaluator using Mistral AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
