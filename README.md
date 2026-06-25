@@ -8,7 +8,7 @@ An AI-powered pitch deck evaluator that analyzes startup decks with the critical
 
 ## 📽️ Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID.webm
+[https://github.com/user-attachments/assets/YOUR_VIDEO_ID.webm](https://github.com/marnissi-nour/pitch-deck-evaluator/blob/main/demo.mp4)
 
 ---
 
@@ -19,7 +19,7 @@ pitch-deck-evaluator/
 ├── solution
     ├──index.html           # Frontend — upload PDF or paste slide text, view AI results
     ├── server.js           # Node.js proxy server — forwards requests to Mistral API
-├── demo.webm           # Screen recording demo
+├── demo.mep4           # Screen recording demo
 ├── presentation.pdf    # Project presentation slides
 └── README.md
 ```
